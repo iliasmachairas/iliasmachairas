@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Ilias Machairas
-MSc Water Management 🌊, TU Delft
+MSc Water Management 🌊, TU Delft <br/>
 Hydrologist, Water Manager, Data science enthousiast
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliasmachairas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
