@@ -5,7 +5,7 @@ Hydrologist, Water Manager, Data science enthousiast
 <a href="https://www.spyder-ide.org/"> <img alt ='Spyder'  src='Images\spyder_crop.png' width=40>
 <a href="https://www.python.org/ "> <img alt ='Python'  src='Images\Python.png' width=35>
 <a href="https://jupyter.org/ "> <img alt ='Jupyter Notebook'  src='Images\jupyter_notebook.png' width=30>
-<a href="https://www.latex-project.org/"> <img alt ='LaTeX'  src='Images\LaTeX_logo.svg' width=30>
+<a href="https://www.latex-project.org/"> <img alt ='LaTeX'  src='Images\Latex_white.png' width=60>
  
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliasmachairas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
