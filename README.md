@@ -2,11 +2,16 @@
 MSc Water Management 🌊, TU Delft <br/>
 Hydrologist, Water Manager, Data science enthousiast
 
+## Technology Stack
+
 <a href="https://www.spyder-ide.org/"> <img alt ='Spyder'  src='Images\spyder_crop.png' width=40>
 <a href="https://www.python.org/ "> <img alt ='Python'  src='Images\Python.png' width=35>
-<a href="https://jupyter.org/ "> <img alt ='Jupyter Notebook'  src='Images\jupyter_notebook_V3_white.png' width=50>
-<a href="https://www.latex-project.org/"> <img alt ='LaTeX'  src='Images\Latex_white.png' width=60>
+<a href="https://jupyter.org/ "> <img alt ='Jupyter Notebook'  src='Images\jupyter_notebook_V3_white.png' width=45>
+<a href="https://www.latex-project.org/"> <img alt ='LaTeX'  src='Images\Latex_white.png' width=65>
  
+## Summary
+ 
+I am an MSc Water Management graduate of TU Delft and work as a junior hydraulic engineer. I have focused on urban water management and hydrology. I am a passionate enthusiast of Geographical Information Systems (G.I.S.) and I am interested in coding in Python. 
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliasmachairas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
