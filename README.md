@@ -4,10 +4,10 @@ Hydrologist, Water Manager, Data science enthousiast
 
 ## Technology Stack
 
-<a href="https://www.spyder-ide.org/"> <img alt ='Spyder'  src='Images\spyder_crop.png' width=40>
-<a href="https://www.python.org/ "> <img alt ='Python'  src='Images\Python.png' width=35>
-<a href="https://jupyter.org/ "> <img alt ='Jupyter Notebook'  src='Images\jupyter_notebook_V3_white.png' width=45>
-<a href="https://www.latex-project.org/"> <img alt ='LaTeX'  src='Images\Latex_white.png' width=65>
+<a href="https://www.spyder-ide.org/" target="_blank"> <img alt ='Spyder'  src='Images\spyder_crop.png' width=40>
+<a href="https://www.python.org/ " target="_blank"> <img alt ='Python'  src='Images\Python.png' width=35>
+<a href="https://jupyter.org/ " target="_blank"> <img alt ='Jupyter Notebook'  src='Images\jupyter_notebook_V3_white.png' width=45>
+<a href="https://www.latex-project.org/" target="_blank"> <img alt ='LaTeX'  src='Images\Latex_white.png' width=65>
  
 ## Summary
  
