@@ -12,8 +12,11 @@ Hydrologist, Water Manager, Data science enthousiast
 ## Summary
  
 I am an MSc Water Management graduate of TU Delft and work as a junior hydraulic engineer. I have focused on urban water management and hydrology. I am a passionate enthusiast of Geographical Information Systems (G.I.S.) and I am interested in coding in Python. 
-  
+
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliasmachairas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <!--
 **iliasmachairas/iliasmachairas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
