@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![video_manning](https://github.com/user-attachments/assets/88bca924-d17f-4b47-bde9-edfed5c7040c)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmachairas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/iliasmachairas/">
