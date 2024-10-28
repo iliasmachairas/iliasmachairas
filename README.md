@@ -2,6 +2,8 @@
 MSc Water Management 🌊, TU Delft <br/>
 Hydrologist, Water Manager, Data science enthousiast
 
+Established member of GIS Stack Exchange [gis.stackexchange.com](https://gis.stackexchange.com/users/76982/ilias-machairas)
+
 ## Technology Stack
 
 <a href="https://www.spyder-ide.org/" target="_blank"> <img alt ='Spyder'  src='Images\spyder_crop.png' width=40>
