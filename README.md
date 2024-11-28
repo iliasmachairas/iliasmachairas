@@ -43,6 +43,11 @@ Here are some ideas to get you started:
 
 [Have a look at the Hydraulic Solver Application](https://hydraulics-solver-manning.streamlit.app/)
 
+
+https://github.com/user-attachments/assets/97cf0f24-a1c8-4c33-ad91-9df2ca5bd38a
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmachairas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/iliasmachairas/">
