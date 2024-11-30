@@ -14,7 +14,7 @@ Established member of GIS Stack Exchange [gis.stackexchange.com](https://gis.sta
  
 ## Summary
  
-I am an MSc Water Management graduate of TU Delft and work as a junior hydraulic engineer. I have focused on urban water management and hydrology. I am a passionate enthusiast of Geographical Information Systems (G.I.S.) and I am interested in coding in Python. 
+I am an MSc Water Management graduate of TU Delft and work as a GIS engineer. I have focused on urban water management and hydrology. I am a passionate enthusiast of Geographical Information Systems (G.I.S.) and I am interested in coding in Python. 
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliasmachairas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -46,6 +46,9 @@ Here are some ideas to get you started:
 
 https://github.com/user-attachments/assets/97cf0f24-a1c8-4c33-ad91-9df2ca5bd38a
 
+Leaflet Map about Floods in Thessaly 
+
+https://github.com/user-attachments/assets/c3312630-8d02-45ea-bffd-39139bdcc34a
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmachairas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
