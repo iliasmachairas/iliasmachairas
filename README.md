@@ -23,6 +23,10 @@ I am an MSc Water Management graduate of TU Delft and work as a GIS engineer. I 
 ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/081ac388-7045-4fb0-9a68-81c0721d758a)
 
 
+
+
+
+
 <!--
 **iliasmachairas/iliasmachairas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,6 +53,12 @@ https://github.com/user-attachments/assets/97cf0f24-a1c8-4c33-ad91-9df2ca5bd38a
 Leaflet Map about Floods in Thessaly 
 
 https://github.com/user-attachments/assets/c3312630-8d02-45ea-bffd-39139bdcc34a
+
+QGIS Plug-in for soil grids 
+
+https://github.com/user-attachments/assets/20798cd1-e758-4286-944a-525efb81180f
+
+https://soilgrids-downloader-qgis-plugin.readthedocs.io/en/latest/#usage
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmachairas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
