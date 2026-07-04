@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ilias Machairas
 MSc Water Management 🌊, TU Delft <br/>
-Hydrologist, Water Manager, Data science enthousiast
+Software Developer, Hydrologist, Water Manager
 
 Established member of GIS Stack Exchange [gis.stackexchange.com](https://gis.stackexchange.com/users/76982/ilias-machairas)
 
