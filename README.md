@@ -22,10 +22,8 @@ Established member of GIS Stack Exchange [gis.stackexchange.com](https://gis.sta
 <a href="https://www.latex-project.org/" target="_blank"> <img alt ='LaTeX'  src='Images\Latex_white.png' width=65>
 <a href="https://www.sphinx-doc.org/en/master/" target="_blank"> <img alt ='Sphinx'  src='Images\sphnix_v2.jpeg' width=35>
  
-## Summary
+## Projects
  
-I am an MSc Water Management graduate of TU Delft and work as a GIS engineer. I have focused on urban water management and hydrology. I am a passionate enthusiast of Geographical Information Systems (G.I.S.) and I am interested in coding in Python. 
-
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliasmachairas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
