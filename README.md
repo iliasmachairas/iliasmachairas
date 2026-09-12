@@ -9,12 +9,10 @@ design to cloud-native Earth Observation pipelines.
 
 - 🌊 Water resources, flood delineation & smart irrigation
 - 🛰️ Remote sensing & EO pipelines (Sentinel, STAC, CWL)
-- 🧠 PhD research: Physics-Informed Neural Networks (PINNs) for flood modelling
 - 🐍 Python · GeoPandas · rasterio · PostGIS · Docker · Kubernetes
 - 📫 Writing on [Medium](https://medium.com/@ilmachairas)
 
 Established member of GIS Stack Exchange [gis.stackexchange.com](https://gis.stackexchange.com/users/76982/ilias-machairas)
-MSc Water Management (TU Delft) · PhD researcher (NTUA)
 
 ## Technology Stack
 
