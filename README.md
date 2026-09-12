@@ -8,7 +8,7 @@ sensing, and machine learning for environmental monitoring — from hydraulic
 design to cloud-native Earth Observation pipelines.
 
 - 🌊 Water resources, flood delineation & smart irrigation
-- 🛰️ Remote sensing & EO pipelines (Sentinel, STAC, CWL)
+- 🛰️ Remote sensing & EO pipelines (Sentinel, Landsat)
 - 🐍 Python · GeoPandas · rasterio · PostGIS · Docker · Kubernetes
 - 📫 Writing on [Medium](https://medium.com/@ilmachairas)
 
