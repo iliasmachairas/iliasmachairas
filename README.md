@@ -23,6 +23,18 @@ Established member of GIS Stack Exchange [gis.stackexchange.com](https://gis.sta
 <a href="https://www.sphinx-doc.org/en/master/" target="_blank"> <img alt ='Sphinx'  src='Images\sphnix_v2.jpeg' width=35>
  
 ## Projects
+
+**Hydrology Plug-in for AutoCAD / Civil 3D** — select a river and basin boundary, pull elevation, slope and CORINE land-use runoff coefficients automatically, compute time of concentration and peak discharge, then export a report and map drawings.
+
+[![Hydrology Plug-in for AutoCAD / Civil 3D](videos/hydrology-civil3d-plugin.gif)](videos/hydrology-civil3d-plugin.mp4)
+
+▶️ [Watch the full video](videos/hydrology-civil3d-plugin.mp4)
+
+**Cadastre Plug-in for AutoCAD** — load Hellenic Cadastre parcels by KAEK, forest maps and satellite imagery straight into the drawing, with coordinate tools for ΕΓΣΑ87 / WGS84.
+
+[![Cadastre Plug-in for AutoCAD](videos/cadastre-cad-plugin.gif)](videos/cadastre-cad-plugin.mp4)
+
+▶️ [Watch the full video](videos/cadastre-cad-plugin.mp4) · [Repository](https://github.com/iliasmachairas/Cadastre-CAD-Plugin)
  
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliasmachairas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
